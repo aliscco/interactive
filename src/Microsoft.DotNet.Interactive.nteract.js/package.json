@@ -31,7 +31,7 @@
     "@nteract/data-explorer": "8.2.9",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "styled-components": "5.1.1"
+    "styled-components": "5.3.0"
   },
   "devDependencies": {
     "@types/expect.js": "0.3.29",
