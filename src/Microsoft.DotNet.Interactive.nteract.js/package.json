@@ -40,7 +40,7 @@
     "@types/react-dom": "16.9.8",
     "@types/styled-components": "5.1.2",
     "@types/webpack-env": "1.15.2",
-    "css-loader": "4.2.2",
+    "css-loader": "5.0.0",
     "fs-extra": "9.0.1",
     "mkdirp": "1.0.4",
     "mocha": "5.2.0",
