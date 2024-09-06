@@ -30,10 +30,10 @@
   "dependencies": {
     "@deck.gl/core": "8.3.7",
     "@deck.gl/layers": "8.3.7",
-    "@msrvida/sanddance-explorer": "3",
+    "@msrvida/sanddance-explorer": "4.0.0",
     "@luma.gl/core": "8.3.1",
     "@fluentui/react": "7.150.0",
-    "vega": "5.17.0",
+    "vega": "5.30.0",
     "react": "16.13.1",
     "react-dom": "16.13.1"
   },
