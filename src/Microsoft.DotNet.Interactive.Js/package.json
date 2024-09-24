@@ -50,7 +50,7 @@
     "mocha-typescript": "1.1.17",
     "node-fetch": "2.6.1",
     "requirejs": "2.3.6",
-    "rollup": "2.51.2",
+    "rollup": "3.29.5",
     "rollup-plugin-commonjs": "10.1.0",
     "rollup-plugin-node-resolve": "5.2.0",
     "rollup-plugin-typescript2": "0.30.0",
