@@ -396,7 +396,7 @@
     "chai": "4.2.0",
     "chai-as-promised": "7.1.1",
     "chai-fs": "2.0.0",
-    "del-cli": "3.0.1",
+    "del-cli": "6.0.0",
     "eslint": "6.8.0",
     "eslint-plugin-deprecation": "1.2.0",
     "glob": "7.1.6",
