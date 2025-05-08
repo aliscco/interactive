@@ -28,10 +28,10 @@
   },
   "homepage": "https://github.com/dotnet/interactive",
   "dependencies": {
-    "@deck.gl/core": "8.3.7",
+    "@deck.gl/core": "9.1.0",
     "@deck.gl/layers": "8.3.7",
     "@msrvida/sanddance-explorer": "3",
-    "@luma.gl/core": "8.3.1",
+    "@luma.gl/core": "9.0.0",
     "@fluentui/react": "7.150.0",
     "vega": "5.17.0",
     "react": "16.13.1",
